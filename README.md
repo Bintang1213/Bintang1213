@@ -14,9 +14,9 @@
 
 I'm a full-stack developer with a strong lean toward backend work — database design, REST APIs, and system architecture are where I spend most of my time. That said, I handle the full picture: building the frontend that consumes those APIs, developing mobile apps, and deploying everything myself on a VPS.
 
-**Backend** — Go and Laravel for building APIs and services, with PostgreSQL/MySQL for data.
+**Backend** — Go, Laravel, and Node.js/Express for building APIs and services, with PostgreSQL, MySQL, and MongoDB for data.
 **Frontend** — React for interfaces that need to feel fast and interactive.
-**Mobile** — Flutter/Dart for cross-platform apps.
+**Mobile** — Flutter and React Native for cross-platform apps.
 **Infrastructure** — Setting up and managing VPS environments: server configuration, deployment, and hosting for the apps I build.
 
 Currently focused on sharpening system architecture and deployment practices, and building projects end-to-end — from database to server.
@@ -29,25 +29,33 @@ Currently focused on sharpening system architecture and deployment practices, an
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=php,go,js,dart&perline=4" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=php,go,js,py,dart&perline=5" alt="Languages" />
 
 <br><br>
 
-**Frontend & Backend**
+**Frontend**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,laravel&perline=5" alt="Frontend & Backend" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react&perline=4" alt="Frontend" />
+
+<br><br>
+
+**Backend**
+<br>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,fastapi&perline=4" alt="Backend" />
 
 <br><br>
 
 **Mobile**
 <br>
 <img src="https://skillicons.dev/icons?i=flutter,dart&perline=2" alt="Mobile" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 
 <br><br>
 
 **Database, DevOps & Hosting**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx,ubuntu&perline=6" alt="Database, DevOps & Hosting" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,linux,nginx,ubuntu&perline=7" alt="Database, DevOps & Hosting" />
 
 <br><br>
 
